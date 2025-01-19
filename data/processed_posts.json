@@ -6,7 +6,13 @@
             "comments": 131,
             "shares": 248
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "Mattergen"
+        ]
     },
     {
         "description": "Announcing Microsoft 365 Copilot Chat. Making AI more accessible to every employee in every business.\n\nLearn more here: aka.ms/CopilotChat",
@@ -15,7 +21,13 @@
             "comments": 437,
             "shares": 2006
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 2,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "Microsoft 365"
+        ]
     },
     {
         "description": "The foundation models we'll build with Mayo Clinic promise to help transform how radiologists do their work, using multimodal AI to help them analyze X-rays faster and more accurately.",
@@ -24,7 +36,13 @@
             "comments": 52,
             "shares": 69
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Radiology",
+            "Ai"
+        ]
     },
     {
         "description": "There is no more waitlist for GitHub Copilot Workspace\u2014the most advanced agentic editor. Start building with agents today. \n\nSign up here: https://lnkd.in/g9WCJZDd",
@@ -33,7 +51,13 @@
             "comments": 195,
             "shares": 624
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 2,
+        "language": "en",
+        "tags": [
+            "Microsoft Copilot",
+            "Github"
+        ]
     },
     {
         "description": "Our hearts go out to everyone affected by the devastating fires in California.\nIn collaboration with Planet Labs, we leveraged our damage assessment AI models on high-resolution SkySat satellite imagery provided by Planet. This collaboration enabled us to map affected areas and generate critical insights to aid recovery efforts. These maps have been shared with organizations on the ground to assist in damage assessments and response planning.\n\nKey Findings from Los Angeles Imagery Analysis:\n\n17,835 buildings analyzed:\n\n6,251 are obscured by clouds, shadow, or smoke.\n9,229 are likely unaffected (as of 1/8, 2:21 PM PT).\n2,355 are likely affected by the fires.\n\nWe acknowledge that these fires are ongoing, and the presence of smoke and other obstructions may result in additional impacted buildings that are not yet detectable.\n\nThis analysis represents a portion of the Palisades fire; other fires in the region are not included in this assessment. While these insights offer a valuable initial overview, they remain preliminary and require on-the-ground verification for a comprehensive understanding of the damage.\n\nThe AI for Good Lab remains steadfast in its commitment to supporting affected communities during this challenging time. \n\nIf your organization would benefit from access to the underlying data in this report, please reach out to me. We are committed to sharing this information to support ongoing recovery efforts.\n\nExplore the data through this interactive visualizer:\n\n\ud83d\udc49 https://lnkd.in/g6swWfh6",
@@ -42,7 +66,13 @@
             "comments": 49,
             "shares": 149
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 27,
+        "language": "en",
+        "tags": [
+            "Ai For Good",
+            "California Fires"
+        ]
     },
     {
         "description": "Exciting to see the new RTX 50-series GPUs and Windows Subsystem for Linux powering models from Nvidia NIM and Azure AI Foundry on Windows 11 PCs. A game-changer for running AI on the edge.",
@@ -51,7 +81,13 @@
             "comments": 212,
             "shares": 397
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Windows 11",
+            "Ai"
+        ]
     },
     {
         "description": "It was great to meet the team at ADT Baramati today, who are using our AI tools to help farmers grow healthier, more sustainable harvests.",
@@ -60,7 +96,13 @@
             "comments": 107,
             "shares": 97
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "Sustainability"
+        ]
     },
     {
         "description": "Just in time for test-time scaling, we have our first NVlink 72 clusters live in Azure. Here\u2019s to the next generation of AI built on these systems!",
@@ -69,7 +111,13 @@
             "comments": 330,
             "shares": 666
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "Azure"
+        ]
     },
     {
         "description": "AI is already transforming the lives of people across India by creating new opportunities and jobs, as stories like Jui's, Raghavendra's, and Venkatesh's show. That's why we\u2019re committed to helping to equip 10 million Indians with essential AI skills by 2030.",
@@ -78,7 +126,13 @@
             "comments": 145,
             "shares": 130
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "India"
+        ]
     },
     {
         "description": "Thrilled to announce our new investments in AI infrastructure and skilling in India to help accelerate the country\u2019s AI transformation. https://lnkd.in/g5TYP7xJ",
@@ -87,7 +141,13 @@
             "comments": 275,
             "shares": 478
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "India"
+        ]
     },
     {
         "description": "Thank you, PM Narendra Modi ji for your leadership. Excited to build on our commitment to making India AI-first and work together on our continued expansion in the country to ensure every Indian benefits from this AI platform shift.",
@@ -96,7 +156,13 @@
             "comments": 416,
             "shares": 311
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "India"
+        ]
     },
     {
         "description": "Every general-purpose technology creates new opportunity across the economy. But it requires companies and countries to invest in new infrastructure and equip people with the right skills. And that\u2019s what we are doing at Microsoft in this AI era, starting in the US.\n\nAs Brad Smith outlines, we want to ensure every American benefits from this AI platform shift, whether it is a scientist discovering a new drug or a high school grad launching a career in cyber security, a farmer embracing precision agriculture or a small business owner becoming more competitive.",
@@ -105,7 +171,13 @@
             "comments": 244,
             "shares": 361
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 5,
+        "language": "en",
+        "tags": [
+            "Technology",
+            "Ai"
+        ]
     },
     {
         "description": "GitHub Copilot Free for VS Code has arrived.\n\nSign up today: https://lnkd.in/gdAcfCnm",
@@ -114,7 +186,13 @@
             "comments": 930,
             "shares": 3130
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 2,
+        "language": "en",
+        "tags": [
+            "Vs Code",
+            "Github"
+        ]
     },
     {
         "description": "The pace of AI innovation this past year has been truly remarkable. But looking back, what stands out most is the incredible speed at which this technology has diffused, turning innovation into real impact\u2014one person, one organization, one community at a time. \n\nAnd throughout 2024, I had the privilege of witnessing countless examples of this around the world.",
@@ -123,7 +201,13 @@
             "comments": 494,
             "shares": 1020
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 3,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "Innovation"
+        ]
     },
     {
         "description": "A true legend, Ustad Zakir Hussain, who brought immense joy through his rhythmic brilliance. Your music transcends boundaries and will live on forever. #Legend #Alvida #MusicLivesOn",
@@ -132,7 +216,13 @@
             "comments": 172,
             "shares": 51
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Legend",
+            "Music"
+        ]
     },
     {
         "description": "I just loved this example our healthcare team shared at a recent radiology conference about the power of Microsoft 365 Copilot to transform work and workflow. \n\nIn this case, it's a team of radiologists preparing for a tumor board meeting, helping them to create a draft agenda, take notes, write a teaching file, and then pull together a presentation. And we're seeing real world examples like this one across every sector.",
@@ -141,7 +231,13 @@
             "comments": 208,
             "shares": 511
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 4,
+        "language": "en",
+        "tags": [
+            "Radiology",
+            "Microsoft Copilot"
+        ]
     },
     {
         "description": "Agents in Microsoft 365 Copilot work with you and on your behalf, breaking down silos across your business applications.\n\nAnd it's fantastic to see how our partners like Adobe, SAP, ServiceNow, and more are building agents to bring their unique knowledge right into the flow of your work and transform every business process and function, from HR and finance to sales.\n\nThe notion that you have go to siloed, bespoke business applications one at a time will be a thing of the past. \n\nYou can see this in action below, and learn more here:\u00a0https://lnkd.in/dF9hZ2RQ",
@@ -150,7 +246,13 @@
             "comments": 127,
             "shares": 369
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 5,
+        "language": "en",
+        "tags": [
+            "Microsoft 365",
+            "Business Applications"
+        ]
     },
     {
         "description": "\ud83d\ude80 Phi-4 is here! A small language model that performs as well as (and often better than) large models on certain types of complex reasoning tasks such as math. Useful for us in @MSFTResearch, and available now for all researcher on the Azure AI Foundry! https://aka.ms/phi4blog",
@@ -159,7 +261,13 @@
             "comments": 82,
             "shares": 282
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Phi 4",
+            "Azure Ai"
+        ]
     },
     {
         "description": "There's so much to love about Copilot, but Copilot Voice is a standout for me. Voice is more than a modality. It's quick, intuitive, natural, and even changes its tone depending on how you interact with it. It fundamentally changes how we connect with technology in this new age of AI. Try it for yourself:\u00a0https://lnkd.in/gFdCwfwB",
@@ -168,7 +276,13 @@
             "comments": 184,
             "shares": 243
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "Microsoft Copilot"
+        ]
     },
     {
         "description": "Proud of the depth and breadth of contributions from Microsoft researchers at this year's NeurIPS!",
@@ -177,7 +291,13 @@
             "comments": 37,
             "shares": 45
         },
-        "name": "Satya Nadella"
+        "name": "Satya Nadella",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Neurips",
+            "Microsoft"
+        ]
     },
     {
         "description": "Imagine a world where every child has access to the vaccines and healthcare they need to survive. I go to work each day thinking about how the\u00a0Gates Foundation\u00a0can make that vision a reality.",
@@ -186,7 +306,13 @@
             "comments": 325,
             "shares": 77
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Vaccines",
+            "Gates Foundation"
+        ]
     },
     {
         "description": "During times of crisis\u2014like the devastating wildfires in LA right now\u2014children face unimaginable disruption. But even when their schools close, they deserve to keep learning and maintain some sense of normalcy. I'm inspired by what Khan Academy is doing to make that happen.",
@@ -195,7 +321,13 @@
             "comments": 237,
             "shares": 85
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Education",
+            "Khan Academy"
+        ]
     },
     {
         "description": "Effective public health is about more than just the \u2018what\u2019\u2014it\u2019s about the \u2018how.\u2019\u00a0Research by Nadia Akseer and her Exemplars in Global Health colleagues shows that a shared, data-backed approach can lead to lasting health improvements.",
@@ -204,7 +336,13 @@
             "comments": 322,
             "shares": 122
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Public Health",
+            "Global Health"
+        ]
     },
     {
         "description": "Mike Maples was an extraordinary human, business leader, and friend. I\u2019m lucky to have known him, and I\u2019m thinking of his family during this difficult time.",
@@ -213,7 +351,13 @@
             "comments": 173,
             "shares": 61
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Tribute",
+            "Mike Maples"
+        ]
     },
     {
         "description": "I thought I knew pretty much everything about Roger Federer\u2019s tennis career, but I learned a ton\u2014especially about his early years\u2014from this retrospective. Filled with never-before-published photographs and personal insights from Roger himself, this book is a great gift for the tennis fan in your life: https://lnkd.in/gNc5sWYH",
@@ -222,7 +366,13 @@
             "comments": 465,
             "shares": 116
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Roger Federer",
+            "Tennis"
+        ]
     },
     {
         "description": "The Carters were among my first and most inspiring role models in global health.",
@@ -231,7 +381,13 @@
             "comments": 201,
             "shares": 113
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Role Models",
+            "Global Health"
+        ]
     },
     {
         "description": "Bono\u2019s relentless pursuit of a healthier, more equitable world has transformed lives and communities. Congratulations, my friend.",
@@ -240,7 +396,13 @@
             "comments": 612,
             "shares": 132
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Bono",
+            "Equity"
+        ]
     },
     {
         "description": "Malnutrition is the greatest health inequity in the world.\u202fNearly two in every three children aren\u2019t getting the nutrients to grow and thrive. But we have the innovations\u2014and even more ideas in the pipeline\u2014needed to make more progress and improve the lives of millions.",
@@ -249,7 +411,13 @@
             "comments": 547,
             "shares": 142
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Malnutrition",
+            "Health Inequity"
+        ]
     },
     {
         "description": "It\u2019s National Science Fiction Day\u2014as good an excuse as any to recommend great books. Some of my favorite reads of the genre include Project Hail Mary by Andy Weir, Stranger in a Strange Land by Robert Heinlein, and The Ministry for the Future by Kim Stanley Robinson. From harrowing climate disasters to science teachers on spaceships, these books are sure to transport you to another world.",
@@ -258,7 +426,13 @@
             "comments": 284,
             "shares": 96
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Book Recommendations",
+            "Science Fiction"
+        ]
     },
     {
         "description": "As 2024 comes to a close, I\u2019m inspired by the progress the world has made, even on problems that once seemed unsolvable. And I\u2019m grateful for a year of learning from brilliant people, experiencing small joys that keep me curious\u2014like a good book or a great conversation\u2014and, most of all, spending time with my family, including my newest granddaughter.\n\u00a0\nThe challenges ahead are tough, but I\u2019m optimistic that innovation and collaboration will lead to new breakthroughs\u2014and make life better for more people\u2014in 2025 and beyond.",
@@ -267,7 +441,13 @@
             "comments": 671,
             "shares": 125
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 3,
+        "language": "en",
+        "tags": [
+            "Innovation",
+            "Family"
+        ]
     },
     {
         "description": "The world has lost a great champion in the fight against poverty and disease. President Carter never stopped working for a world where all children can grow up healthy and make the most of their dreams. He was an inspiration to me. I will miss him dearly: https://lnkd.in/gfqwdDHx",
@@ -276,7 +456,13 @@
             "comments": 766,
             "shares": 497
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Poverty",
+            "Carter"
+        ]
     },
     {
         "description": "Knowing where the planet\u2019s carbon emissions come from is the first step toward eliminating them and eventually reaching net zero.\u200b",
@@ -285,7 +471,13 @@
             "comments": 851,
             "shares": 329
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Carbon Emissions",
+            "Net Zero"
+        ]
     },
     {
         "description": "Recent advances in HIV prevention, especially the breakthroughs in long-acting PrEP, offer powerful new ways to protect people. The next step is to make sure everyone has access to these life-saving interventions. \u200b",
@@ -294,7 +486,13 @@
             "comments": 307,
             "shares": 155
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Hiv",
+            "Prep"
+        ]
     },
     {
         "description": "Child mortality rates are still far too high, but the world is moving in the right direction. By better understanding root causes and staying committed to prevention and evidence-based interventions, we can speed up progress and save even more lives.",
@@ -303,7 +501,13 @@
             "comments": 239,
             "shares": 74
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Prevention",
+            "Child Mortality"
+        ]
     },
     {
         "description": "The European Platform for Neurodegenerative Diseases (EPND) has just launched their data hub\u2014a game-changing resource that will accelerate research through collaboration and innovation in the field.",
@@ -312,7 +516,13 @@
             "comments": 141,
             "shares": 85
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Neurodegenerative Diseases",
+            "Research"
+        ]
     },
     {
         "description": "Here\u2019s the kind of book I love\u2014one that sparks curiosity and helps you see the world differently. Grady Hillhouse, P.E.\u2019s Engineering in Plain Sight reveals the mysteries of modern-day infrastructure in a fascinating and approachable way: https://lnkd.in/gTTQq84S",
@@ -321,7 +531,13 @@
             "comments": 363,
             "shares": 192
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Infrastructure",
+            "Engineering"
+        ]
     },
     {
         "description": "I\u2019ve said it before: Texas is at the forefront of the clean energy transition. Not only are these groundbreaking companies driving innovation\u2014they\u2019re bringing good jobs to their communities and boosting the American economy: https://lnkd.in/gJKtzg7V",
@@ -330,7 +546,13 @@
             "comments": 541,
             "shares": 216
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Texas",
+            "Clean Energy"
+        ]
     },
     {
         "description": "The future of fusion is brighter than ever. By harnessing the same process seen inside a star, Commonwealth Fusion Systems\u2019 power plants could one day produce extraordinary amounts of clean energy to meet the world\u2019s growing demand.",
@@ -339,7 +561,13 @@
             "comments": 214,
             "shares": 213
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Fusion",
+            "Clean Energy"
+        ]
     },
     {
         "description": "The 2024 #WorldMalariaReport shows that the fight against malaria is getting harder as climate change raises temperatures and expands mosquito habitats. By 2050, over 1.3 billion people in Africa\u2014around 75% of the population\u2014will live in areas where malaria will be more difficult to eradicate than it is today. The good news is that, with transformative tools and increased commitment, we can fight back against malaria and the challenges it brings.",
@@ -348,7 +576,13 @@
             "comments": 277,
             "shares": 86
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 3,
+        "language": "en",
+        "tags": [
+            "Climate Change",
+            "Malaria"
+        ]
     },
     {
         "description": "Reading\u00a0Jonathan Haidt\u2019s The Anxious Generation\u00a0made me reconsider the \u201cThink Weeks\u201d I did starting in the \u201890s. If I had grown up with today\u2019s tech and all the distractions that come with it, would I have been able to get as much done? What I like about Haidt\u2019s new book is that it brings up some difficult questions about young people living life online\u2014but it also provides a roadmap for how we can help them change course: https://lnkd.in/gf_-7HRx",
@@ -357,7 +591,13 @@
             "comments": 425,
             "shares": 270
         },
-        "name": "Bill Gates"
+        "name": "Bill Gates",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "The Anxious Generation",
+            "Think Weeks"
+        ]
     },
     {
         "description": "Figma co-founder and CEO Dylan Field shares his vision for the future of AI, design and human creativity. He\u2019s increasingly optimistic that innovation will \u201clower the floor and raise the ceiling\u201d for what people can accomplish. An excellent South by interview with The Verge\u2019s Nilay Patel.",
@@ -366,7 +606,13 @@
             "comments": 318,
             "shares": 90
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 3,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "Figma"
+        ]
     },
     {
         "description": "Brilliant. Kudos to the folks at Heineken for putting this together. Reminds me of the excellent work StoryCorps is now doing with their One Small Step  program that helps set up 1:1 interviews between people with differing perspectives. cc: Dave I.",
@@ -375,7 +621,13 @@
             "comments": 93,
             "shares": 41
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Storycorps",
+            "Heineken"
+        ]
     },
     {
         "description": "While the focus on AI interfaces of the future has typically been centered on the concept of Agents, arguably the most logical interface of all has been right in front of us all along: the browser. The Browser Company has been hard at work reimagaining what an AI capable browser can be, and just launched the first of many exciting innovations they will be releasing towards achieving their vision. Congrats to Josh Miller, Hursh Agrawal, and the incredibly talented team at The Browser Company on the launch of Arc Search and a new era of Smart Browsing.",
@@ -384,7 +636,13 @@
             "comments": 77,
             "shares": 39
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "Smart Browsing"
+        ]
     },
     {
         "description": "According to Him For Her founder and CEO Jocelyn Mangan, solving for thought diversity in the boardroom isn\u2019t a pipeline problem, it\u2019s a network problem. In this video, Jocelyn explains why solving this issue is so important and can be accomplished within the next ten years.",
@@ -393,7 +651,13 @@
             "comments": 28,
             "shares": 12
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Thought Diversity",
+            "Boardroom"
+        ]
     },
     {
         "description": "Well articulated reminder from Adam Grant that compassion and empathy are not synonymous. Compassion = Empathy + Action.",
@@ -402,7 +666,13 @@
             "comments": 60,
             "shares": 31
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Compassion",
+            "Empathy"
+        ]
     },
     {
         "description": "Don't typically comment on quantifiable milestones here as they're all part of the process, but 1B members is worth making an exception for. Congrats to every member of the team who worked so hard to make this possible. The best is yet to come.",
@@ -411,7 +681,13 @@
             "comments": 246,
             "shares": 105
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Team",
+            "Milestone"
+        ]
     },
     {
         "description": "In 2015, had the great privilege of interviewing Matthieu Ricard. Was instantly brought back to the timeless wisdom and compassion he shared then in his most recent interview with the New York Times.",
@@ -420,7 +696,13 @@
             "comments": 104,
             "shares": 126
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Matthieu Ricard",
+            "Timeless Wisdom"
+        ]
     },
     {
         "description": "Was recently reminded of the surprisingly prescient vision of the digital future portrayed in this series of AT&T commercials released in 1994: https://lnkd.in/d6cV-n3U. \n\nAs futuristic as the innovations seemed when the ads were first released, many would go on to become mainstream within the next two decades. \n\nHave seen a number of videos in the last few years focusing on the specific application of new technologies, e.g., AR/VR, autonomous vehicles, drones/flying taxis, robotics, etc., and we're all familiar with classic sci-fi films focused on an increasingly AI driven future. \n\nHowever, curious if anyone has seen anything produced recently comparable to the AT&T ads depicting what a future leveraging all of these technologies might look like 20-30 years from now?",
@@ -429,7 +711,13 @@
             "comments": 105,
             "shares": 142
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 6,
+        "language": "en",
+        "tags": [
+            "Future",
+            "Technology"
+        ]
     },
     {
         "description": "As editor of WIRED, Nicholas Thompson, was one of the clearest and most insightful thinkers I knew regarding the implications of newly introduced technologies. As CEO of The Atlantic, he's now in a position to help his team navigate and leverage those advances. Here's a recent note he shared with them on the rise of AI that can be more broadly applied to others in the process of developing their approach.",
@@ -438,7 +726,13 @@
             "comments": 98,
             "shares": 144
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 4,
+        "language": "en",
+        "tags": [
+            "Technology",
+            "Ai"
+        ]
     },
     {
         "description": "Dave and the StoryCorps team have been building on this work to enable individuals to tell their stories and facilitate connections between people with different perspectives for years. Great to see this kind of well-deserved spotlight on such an important effort.",
@@ -447,7 +741,13 @@
             "comments": 51,
             "shares": 28
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Storycorps",
+            "Connections"
+        ]
     },
     {
         "description": "What a great article \u2014 well worth the time to read. Love the clarity Shaquille O'Neal applies to the brands and businesses he gets involved with, all derived from his sense of personal connection, value and fun. Clear demonstration of the power of authenticity as a leader, entrepreneur and an investor. \n\nDaniel Roth and Ryan Roslansky, how about an interview on \u201cThe Path\u201d?!",
@@ -456,7 +756,13 @@
             "comments": 120,
             "shares": 112
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 3,
+        "language": "en",
+        "tags": [
+            "Leadership",
+            "Authenticity"
+        ]
     },
     {
         "description": "Over an Internet career spanning nearly three decades, I've seen the introduction of digital applications that marked at least two key inflection points for the industry as well as society more broadly.\n\nIn 1993, Mosaic launched its browser, providing an interface that enabled everyday users to consume digitized content. The rise of the consumer web followed and nothing would be the same.\n\nBetween 2003 and 2005, Digg,\u00a0Delicious,\u00a0Flickr, and YouTube introduced applications that enabled everyday users to share digitized links, images, and videos. The rise of social media platforms followed and nothing would be the same.\n\nWith recent innovations in AI, it appears we're now on the cusp of a third inflection point.\n\nIn 2022, Open AI introduced DALL-E 2, enabling everyday users to harness the power of AI to generate images.\n\nThe rise of AI is certainly not a new theme. It's been the subject of science fiction for decades, and over the last few years, understanding its implications and investing in its application have ranked among the top priorities for many companies in Tech and beyond.\n\nThis intense scrutiny on AI is why I've been struck by how surprised some of the industry's top technologists, executives, and investors have been over recent advances in the state of the art and its growing accessibility -- GPT 1, 2, 3, Dall-E 2, and Stable Diffusion just to name a few.\n\nWhat's even more stunning is the stuff that hasn't launched yet, but soon will. The rise of AI generated text, images, audio and video will follow and nothing will be the same.\n\nIf you thought the consumer web and social media were disruptive, you ain't seen nothing yet.",
@@ -465,7 +771,13 @@
             "comments": 160,
             "shares": 138
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 27,
+        "language": "en",
+        "tags": [
+            "Ai",
+            "Digital Transformation"
+        ]
     },
     {
         "description": "Excellent interview with two of the most inspiring leaders I have the privilege of working with \u2014 Wemimo Abbey and Samir Goel. Here\u2019s a brief excerpt in which they describe the talent they are looking for at Esusu:  \u201cWe\u2019re doubling down on folks we call justice capitalists \u2014 people who have a head for business and a heart for the world. These people fundamentally believe that doing good and doing well are by no means mutually exclusive.\u201d",
@@ -474,7 +786,13 @@
             "comments": 29,
             "shares": 0
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 4,
+        "language": "en",
+        "tags": [
+            "Justice Capitalists",
+            "Leadership"
+        ]
     },
     {
         "description": "Congratulations Esusu and Fannie Mae, on this industry transforming collaboration to create a more equitable housing market. Esusu continues to exemplify that doing well and doing good are not mutually exclusive. Well done, Wemimo Abbey  Samir Goel  and the Esusu team!",
@@ -483,7 +801,13 @@
             "comments": 19,
             "shares": 16
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Esusu",
+            "Housing Market"
+        ]
     },
     {
         "description": "A stunning example of compassionate capitalism. Patagonia has always been a leader of this movement, but this takes it to another level. Hopefully, just the beginning and a model to be followed in the future.",
@@ -492,7 +816,13 @@
             "comments": 77,
             "shares": 94
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Patagonia",
+            "Capitalism"
+        ]
     },
     {
         "description": "Congrats, Dylan! It's nothing short of extraordinary to see what you and the team have accomplished over the last ten years. \n\nFrom the moment you started as a LinkedIn intern and conceived of the idea for LinkedIn for Good, it was clear you were an unusual talent (shout out to Tim O'Reilly and DJ Patil for recognizing your ability so early on). As much as we were hoping you'd join the company post-graduation, we all knew you were destined to be a game-changing entrepreneur. \n\nUnsurprisingly, over the last decade of working together, you have set the bar in terms of defining the kind of visionary founder, world-class executive, and industry transforming start-up I aspire to support as an investor and coach. Thank you, Dylan. Couldn't be more excited to watch where you take the company and what you accomplish from here!",
@@ -501,7 +831,13 @@
             "comments": 23,
             "shares": 18
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 7,
+        "language": "en",
+        "tags": [
+            "Linkedin",
+            "Entrepreneur"
+        ]
     },
     {
         "description": "One of the most eloquent and insightful metaphors for teamwork I\u2019ve heard, from jazz great Wynton Marsalis.",
@@ -510,7 +846,13 @@
             "comments": 17,
             "shares": 21
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Jazz",
+            "Teamwork"
+        ]
     },
     {
         "description": "Nice to see this important distinction gaining more traction: Empathy is not an end game but rather a means towards a more compassionate outcome. Put another way: Compassion = Empathy + Action",
@@ -519,7 +861,13 @@
             "comments": 102,
             "shares": 155
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Compassion",
+            "Empathy"
+        ]
     },
     {
         "description": "Great opportunity to hear Sean Mendy, founding partner of Concrete Rose Capital, discuss his vision for how Concrete Rose helps to fund underserved founders and start-ups. I've had the privilege of working with Sean and his team over the last couple of years and couldn't be more impressed by their progress to date. h/t Alan Waxman",
@@ -528,6 +876,12 @@
             "comments": 15,
             "shares": 12
         },
-        "name": "Jeff Weiner"
+        "name": "Jeff Weiner",
+        "line_count": 1,
+        "language": "en",
+        "tags": [
+            "Start Ups",
+            "Concrete Rose Capital"
+        ]
     }
 ]
