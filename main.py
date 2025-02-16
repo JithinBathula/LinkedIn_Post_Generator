@@ -13,7 +13,7 @@ def main():
         else:
             topic = st.selectbox("Topic", options=[])
     with col3:
-        length = st.selectbox("Length", options=["Short", "Medium", "Long"])
+        length = st.selectbox("Length", options=["Short_post", "Medium", "Long"])
 
     if st.button("Generate"):
         st.write(f"Generating the perfect LinkedIn Post based on {topic}, {length} and {author}")
