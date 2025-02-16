@@ -32,7 +32,7 @@ def get_unified_tags(posts):
         unique_tags.update(post["tags"])
 
 
-    unique_tags_string = ', '.join(unique_tags)
+    unique_tags_string = ",".join(unique_tags)
 
     prompt_template = '''You are tasked with unifying a list of tags according to specific requirements. Your goal is to create a shorter, more consolidated list of tags by merging similar concepts. Here are the detailed instructions:
 
